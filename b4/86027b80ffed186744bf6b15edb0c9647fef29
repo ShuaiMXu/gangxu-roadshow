@@ -1,0 +1,19 @@
+index.html
+  s_48e90cf2840b97::t_1ad6c93249f489 88,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b486027b80ffed186744bf6b15edb0c9647fef29",
+  "prompts": {},
+  "sessions": {
+    "s_48e90cf2840b97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac8d-ff5c-7aa1-88d2-a95f2c23d88d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
