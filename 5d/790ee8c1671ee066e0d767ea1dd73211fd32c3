@@ -1,0 +1,39 @@
+index.html
+  s_a97381c7f2075a::t_142cb2120eebe6 156,162,168,174,194-199
+  s_a97381c7f2075a::t_57299a82ae6f7a 101-102,113,190,200-201
+  s_a97381c7f2075a::t_85b582a789a2b8 100,109
+  s_a97381c7f2075a::t_fe178226aa7dc0 176,189
+  s_a97381c7f2075a::t_0517c61d39da22 202
+  s_a97381c7f2075a::t_1880c91a308043 114-155,157-161,163-167,169-173,175
+  s_a97381c7f2075a::t_9dbba60875f620 104,108
+  s_a97381c7f2075a::t_184d4664a32613 103,105-107
+  s_a97381c7f2075a::t_0e6323af03fe1f 111
+  s_a97381c7f2075a::t_ac33e84fed5676 112,177-188,191-193
+  s_a97381c7f2075a::t_c6fe86fc88f933 203
+路演主讲稿.md
+  s_a97381c7f2075a::t_cae231272d5a89 11-12
+  s_a97381c7f2075a::t_184d4664a32613 51
+  s_a97381c7f2075a::t_ac33e84fed5676 41,47
+  s_a97381c7f2075a::t_142cb2120eebe6 43,45,49
+  s_a97381c7f2075a::t_6cbdfc3b2b1b3b 53-55,127-131,145,153,179
+讲稿与演示安排.md
+  s_a97381c7f2075a::t_cae231272d5a89 11-12
+README.md
+  s_a97381c7f2075a::t_a1c77118a61466 7,13-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "5d790ee8c1671ee066e0d767ea1dd73211fd32c3",
+  "prompts": {},
+  "sessions": {
+    "s_a97381c7f2075a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b19d-d98e-71c1-a2e8-2ad046c72912",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
