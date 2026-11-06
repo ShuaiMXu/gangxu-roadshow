@@ -1,0 +1,23 @@
+index.html
+  s_48e90cf2840b97::t_e4e01bba5bfc9c 110,113-115
+讲稿与演示安排.md
+  s_48e90cf2840b97::t_2b03bb9f5a9b19 12,17-22,29
+路演主讲稿.md
+  s_48e90cf2840b97::t_83763348ff1ce9 12,17-22,50,96,98,100,102,104,106,108-116,130,134-136,148,152,154,156,158,160,162,166,182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "5403fd1791f8d6a69e58b0b2b61bfbafa45a58d4",
+  "prompts": {},
+  "sessions": {
+    "s_48e90cf2840b97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac8d-ff5c-7aa1-88d2-a95f2c23d88d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
