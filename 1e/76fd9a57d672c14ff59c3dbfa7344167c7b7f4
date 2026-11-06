@@ -1,0 +1,22 @@
+index.html
+  s_48e90cf2840b97::t_952369434648f0 1,92-94,98-125,127-151
+  s_48e90cf2840b97::t_3e0615a8e9a6f6 95-97,126
+README.md
+  s_48e90cf2840b97::t_952369434648f0 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1e76fd9a57d672c14ff59c3dbfa7344167c7b7f4",
+  "prompts": {},
+  "sessions": {
+    "s_48e90cf2840b97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac8d-ff5c-7aa1-88d2-a95f2c23d88d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
