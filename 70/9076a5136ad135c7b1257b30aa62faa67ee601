@@ -1,0 +1,25 @@
+README.md
+  s_48e90cf2840b97::t_f524abf7233f73 7
+index.html
+  s_48e90cf2840b97::t_1dfc9fb9903973 80-87,94-96,99,112
+讲稿与演示安排.md
+  s_48e90cf2840b97::t_cef375510f8389 19-23,31
+路演主讲稿.md
+  s_48e90cf2840b97::t_95a6e16e0ea6f9 3,19-23,122,134,136-142,156,162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "709076a5136ad135c7b1257b30aa62faa67ee601",
+  "prompts": {},
+  "sessions": {
+    "s_48e90cf2840b97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac8d-ff5c-7aa1-88d2-a95f2c23d88d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
