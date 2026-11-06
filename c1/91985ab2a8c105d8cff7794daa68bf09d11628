@@ -1,0 +1,21 @@
+index.html
+  s_a97381c7f2075a::t_924f7b186c3043 109-111
+路演主讲稿.md
+  s_a97381c7f2075a::t_6fc696a57551f1 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "c191985ab2a8c105d8cff7794daa68bf09d11628",
+  "prompts": {},
+  "sessions": {
+    "s_a97381c7f2075a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b19d-d98e-71c1-a2e8-2ad046c72912",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
