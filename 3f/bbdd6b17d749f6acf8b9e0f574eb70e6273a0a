@@ -1,0 +1,21 @@
+index.html
+  s_48e90cf2840b97::t_5bf023401f7caf 100-105,107-113,115,118,121,124,126
+路演主讲稿.md
+  s_48e90cf2840b97::t_ad5a42ac542509 30,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3fbbdd6b17d749f6acf8b9e0f574eb70e6273a0a",
+  "prompts": {},
+  "sessions": {
+    "s_48e90cf2840b97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac8d-ff5c-7aa1-88d2-a95f2c23d88d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
