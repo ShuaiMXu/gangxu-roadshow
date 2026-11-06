@@ -1,0 +1,19 @@
+index.html
+  s_a97381c7f2075a::t_fa7db773f6b51b 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "328e8df8befadcf0531a30f562adb2395a6f7e2a",
+  "prompts": {},
+  "sessions": {
+    "s_a97381c7f2075a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b19d-d98e-71c1-a2e8-2ad046c72912",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xushuai.133"
+    }
+  }
+}
